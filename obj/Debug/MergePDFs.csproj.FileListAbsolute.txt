@@ -1,0 +1,26 @@
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\MergePDFs\MergePDFs\bin\Debug\MergePDFs.exe.config
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\MergePDFs\MergePDFs\bin\Debug\MergePDFs.exe
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\MergePDFs\MergePDFs\bin\Debug\MergePDFs.pdb
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\MergePDFs\MergePDFs\bin\Debug\itextsharp.dll
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\MergePDFs\MergePDFs\bin\Debug\itextsharp.xml
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.csprojAssemblyReference.cache
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.Form1.resources
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.Properties.Resources.resources
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.csproj.GenerateResource.cache
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.csproj.CoreCompileInputs.cache
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.csproj.CopyComplete
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.exe
+D:\LEXIS NEXIS PROJECT\1897\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.pdb
+C:\Users\E1897\source\Sync\Projects\MergePDFs\MergePDFs\bin\Debug\MergePDFs.exe.config
+C:\Users\E1897\source\Sync\Projects\MergePDFs\MergePDFs\bin\Debug\MergePDFs.exe
+C:\Users\E1897\source\Sync\Projects\MergePDFs\MergePDFs\bin\Debug\MergePDFs.pdb
+C:\Users\E1897\source\Sync\Projects\MergePDFs\MergePDFs\bin\Debug\itextsharp.dll
+C:\Users\E1897\source\Sync\Projects\MergePDFs\MergePDFs\bin\Debug\itextsharp.xml
+C:\Users\E1897\source\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.csprojAssemblyReference.cache
+C:\Users\E1897\source\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.Form1.resources
+C:\Users\E1897\source\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.Properties.Resources.resources
+C:\Users\E1897\source\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.csproj.GenerateResource.cache
+C:\Users\E1897\source\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.csproj.CoreCompileInputs.cache
+C:\Users\E1897\source\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.csproj.CopyComplete
+C:\Users\E1897\source\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.exe
+C:\Users\E1897\source\Sync\Projects\MergePDFs\MergePDFs\obj\Debug\MergePDFs.pdb
